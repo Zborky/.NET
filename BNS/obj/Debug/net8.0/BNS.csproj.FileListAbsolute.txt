@@ -1,0 +1,14 @@
+C:\Users\Jakub\Desktop\Programovanie\C#\BNS\bin\Debug\net8.0\BNS.exe
+C:\Users\Jakub\Desktop\Programovanie\C#\BNS\bin\Debug\net8.0\BNS.deps.json
+C:\Users\Jakub\Desktop\Programovanie\C#\BNS\bin\Debug\net8.0\BNS.runtimeconfig.json
+C:\Users\Jakub\Desktop\Programovanie\C#\BNS\bin\Debug\net8.0\BNS.dll
+C:\Users\Jakub\Desktop\Programovanie\C#\BNS\bin\Debug\net8.0\BNS.pdb
+C:\Users\Jakub\Desktop\Programovanie\C#\BNS\obj\Debug\net8.0\BNS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jakub\Desktop\Programovanie\C#\BNS\obj\Debug\net8.0\BNS.AssemblyInfoInputs.cache
+C:\Users\Jakub\Desktop\Programovanie\C#\BNS\obj\Debug\net8.0\BNS.AssemblyInfo.cs
+C:\Users\Jakub\Desktop\Programovanie\C#\BNS\obj\Debug\net8.0\BNS.csproj.CoreCompileInputs.cache
+C:\Users\Jakub\Desktop\Programovanie\C#\BNS\obj\Debug\net8.0\BNS.dll
+C:\Users\Jakub\Desktop\Programovanie\C#\BNS\obj\Debug\net8.0\refint\BNS.dll
+C:\Users\Jakub\Desktop\Programovanie\C#\BNS\obj\Debug\net8.0\BNS.pdb
+C:\Users\Jakub\Desktop\Programovanie\C#\BNS\obj\Debug\net8.0\BNS.genruntimeconfig.cache
+C:\Users\Jakub\Desktop\Programovanie\C#\BNS\obj\Debug\net8.0\ref\BNS.dll
